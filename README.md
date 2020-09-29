@@ -1,8 +1,8 @@
 # Homework-2-Econometrics
 ---
-title: "Homework 2, Lab 2, Econ B2000"
-author: 'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb'
-date: "9/29/2020"
+ "Homework 2, Lab 2, Econ B2000"
+'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb'
+"9/29/2020"
 output: github_document
 ---
 
