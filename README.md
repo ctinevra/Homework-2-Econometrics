@@ -1,7 +1,9 @@
 # Homework-2-Econometrics
 ---
  "Homework 2, Lab 2, Econ B2000"
+ 
 'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb'
+
 "9/29/2020"
 ---
 
