@@ -4,7 +4,6 @@
  
 'Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb'
 
-"9/29/2020"
 ---
 
 Question: How likely is that this dice is unfair? We are trying to determine whether the dice is generating random numbers or if it's actually following a certain pattern.  
