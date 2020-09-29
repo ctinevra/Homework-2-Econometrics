@@ -8,9 +8,9 @@
 
 Question: How likely is that this dice is unfair? We are trying to determine whether the dice is generating random numbers or if it's actually following a certain pattern.  
 
-**Null Hypothesis Ho - No relationship; the die is generating random numbers and thus is fair.
+# Null Hypothesis Ho - No relationship; the die is generating random numbers and thus is fair.
 
-**Alternative Hypothesis Ha - The die is unfair; it has been fixed to generate more 6s on average.
+# Alternative Hypothesis Ha - The die is unfair; it has been fixed to generate more 6s on average.
 
 So, we are trying to test whether or not the die is unfair, given that our naive assessment is that the die should be fair (random). 
 
